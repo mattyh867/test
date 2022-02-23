@@ -21,3 +21,4 @@ contract WavePortal {
         return totalWaves;
     }
 }
+
